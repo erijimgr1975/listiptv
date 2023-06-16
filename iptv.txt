@@ -1,0 +1,18 @@
+#EXTM3U url-tvg="http://iptvx.one/epg/epg_lite.xml.gz"
+
+#EXTINF:-1 tvg - logo="1200px-Repretel_logo.svg.png" 
+group-title=“COSTA RICA”,CANAL DOS
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
+
+#EXTINF:-1 tvg - logo="1200px-Repretel_logo.svg.png" 
+group-title=“COSTA RICA”,CANAL CUATRO
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal4.m3u8
+
+#EXTINF:-1 tvg - logo="1200px-Repretel_logo.svg.png" 
+group-title=“COSTA RICA”,CANAL SEIS
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal6_720.m3u8
+
+#EXTINF:-1 tvg - logo="1200px-Repretel_logo.svg.png" 
+group-title=“COSTA RICA”,CANAL ONCE
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
+
